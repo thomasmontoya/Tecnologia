@@ -1,6 +1,6 @@
 .grande{
 	position: absolute;
-	top: 110px;
+	top: 30px;
 	left: 250px;
 	width: 900px;
 	height: 550px;
@@ -8,7 +8,7 @@
 }
 .medio1{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 230px;
 	width: 450px;
 	height: 70px;
@@ -16,7 +16,7 @@
 }
 .medio2{
 	position: absolute;
-	top: 170px;
+	top: 90px;
 	left: 20px;
 	width: 370px;
 	height: 440px;
@@ -24,7 +24,7 @@
 }
 .medio3{
 	position: absolute;
-	top: 170px;
+	top: 90px;
 	left: 400px;
 	width: 480px;
 	height: 440px;
@@ -32,7 +32,7 @@
 }
 .pequeñoti1{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 57px;
 	width: 250px;
 	height: 50px;
@@ -40,7 +40,7 @@
 }
 .pequeñote1{
 	position: absolute;
-	top: 150px;
+	top: 70px;
 	left: 10px;
 	width: 350px;
 	height: 200px;
@@ -48,7 +48,7 @@
 }
 .pequeñofo1{
 	position: absolute;
-	top: 360px;
+	top: 280px;
 	left: 50px;
 	width: 270px;
 	height: 150px;
@@ -56,7 +56,7 @@
 }
 .pequeñote2{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 20px;
 	width: 440px;
 	height: 230px;
@@ -64,7 +64,7 @@
 }
 .pequeñofo2{
 	position: absolute;
-	top: 330px;
+	top: 250px;
 	left: 40px;
 	width: 180px;
 	height: 180px;
@@ -72,7 +72,7 @@
 }
 .pequeñofo3{
 	position: absolute;
-	top: 330px;
+	top: 250px;
 	left: 240px;
 	width: 180px;
 	height: 180px;
@@ -80,35 +80,35 @@
 }
 .titulo{
 	position: absolute;
-	top: 100px;
+	top: 20px;
 	left: 80px;
 	color: white;
 	font-size: 30px;
 }
 .titulo1{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 80px;
 	color: white;
 	font-size: 25px;
 }
 .texto1{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 10px;
 	color: white;
 	font-size: 20px;
 }
 .texto2{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 10px;
 	color: white;
 	font-size: 19px;
 }
 .foto1{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 10px;
 	width: 250px;
 	height: 130px;
@@ -117,7 +117,7 @@
 }
 .foto2{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 10px;
 	width: 160px;
 	height: 160px;
@@ -126,7 +126,7 @@
 }
 .foto3{
 	position: absolute;
-	top: 90px;
+	top: 10px;
 	left: 10px;
 	width: 160px;
 	height: 160px;
