@@ -1,0 +1,8 @@
+@font-face{
+	font-family:grado8 ;
+	src: url(pastaza.ttf);
+}
+.titu{
+	font-family:grado8 ;
+	font-size: 30px;
+}
